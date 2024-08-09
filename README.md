@@ -1,1 +1,5 @@
-# typescript  training readme file
+# TypeScript 
+
+## TypeScript Kurulum
+## TypeScript Tipler
+## TypeScript Fonksiyonlar
